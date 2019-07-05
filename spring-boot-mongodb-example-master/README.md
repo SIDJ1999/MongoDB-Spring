@@ -3,7 +3,8 @@
 localhost:8095/rest/
 ```
 
-#Employee
+#Employee\n
+
 ##Create
 ```
 localhost:8095/rest/employee/new   (Request Body required)
@@ -18,13 +19,13 @@ localhost:8095/rest/employee/update/{id}  (Request Body required)
 localhost:8095/rest/employee/delete/{id}
 ```
 ## Employee table JSON format
-
+```
 {
                 "id": 1,
                 "name": "Peter",
                 "salary": 3000
 }
-
+```
 #Department
 ##Create
 ```
