@@ -27,6 +27,7 @@ localhost:8095/rest/employee/delete/{id}
 }
 ```
 #Department
+
 ##Create
 ```
 localhost:8095/rest/department/new   (Request Body required)
